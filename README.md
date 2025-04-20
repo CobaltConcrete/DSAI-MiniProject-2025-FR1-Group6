@@ -104,6 +104,6 @@ Proposed actions:
 - Applied MLP Neural Network to explore non-linear relationships
 
 ## Contributions
-Denzel: Problem Formulation, Dataset Preparation and Cleaning, EDA
-Qing Rong: Identifying Relevant Features, Logistic Regression, Decision Trees, Ensemble Trees
-Gracelynn: SVM, MLP Classifeir NN, Insights, Intepretation and Potential Actions
+- Denzel: Problem Formulation, Dataset Preparation and Cleaning, EDA
+- Qing Rong: Identifying Relevant Features, Logistic Regression, Decision Trees, Ensemble Trees
+- Gracelynn: SVM, MLP Classifeir NN, Insights, Intepretation and Potential Actions
