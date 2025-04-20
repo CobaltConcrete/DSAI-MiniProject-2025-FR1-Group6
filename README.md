@@ -102,3 +102,8 @@ Proposed actions:
 - Custom 3D KMeans and SVM boundary plots rendered in standalone HTML
 - Used mutual information for deeper feature selection
 - Applied MLP Neural Network to explore non-linear relationships
+
+## Contributions
+Denzel: Problem Formulation, Dataset Preparation and Cleaning, EDA
+Qing Rong: Identifying Relevant Features, Logistic Regression, Decision Trees, Ensemble Trees
+Gracelynn: SVM, MLP Classifeir NN, Insights, Intepretation and Potential Actions
